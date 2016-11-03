@@ -1,0 +1,21 @@
+{
+  "HoverBoardNumber": 0,
+  "HoverBoardOwner": 0,
+  "ThetaOffset": 0,
+  "CurrentLimit": 0,
+  "CellNumberInSeries": 0,
+  "CellVoltageMinimum": 0,
+  "CellVoltageNominal": 0,
+  "CellVoltageMaximum": 0,
+  "BatteryCapacityLeft": 0,
+  "BatteryCapacityRight": 0,
+  "ChargerVoltageSetpoint": 0,
+  "ChargerCurrentSetpoint": 0,
+  "TamperComponents": 0,
+  "McdBoardPresent": 0,
+  "BmsBoardPresent": 0,
+  "UserBoardPresentLeft": 0,
+  "UserBoardPresentRight": 0,
+  "BmpsBoardPresentLeft": 0,
+  "BmpsBoardPresentRight": 0
+}
